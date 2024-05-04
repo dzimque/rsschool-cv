@@ -10,9 +10,8 @@ Wroclaw, Poland
 
 ---------
 ### Education:
-
-#### 2015-2020
-#### Belarussian-Russian University   
+2015-2020
+Belarussian-Russian University   
 Economics; (Mogilev, Belarus)</h1> 
 
 ----------------------------------------
@@ -26,7 +25,8 @@ Economics; (Mogilev, Belarus)</h1>
 
 Code example
 
-```function sum(a, b) {
+```javascript
+function sum(a, b) {
   return a + b;
 }
 

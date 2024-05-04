@@ -32,10 +32,8 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
-
 ----------------------------------------
 * Human Languages:
      * English (B1)
      * Russian (native speaker)
      * Polish (A2)
-

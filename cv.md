@@ -5,24 +5,27 @@ Wroclaw, Poland
 -------------------     ----------------------------
 ## Contact info
 **EMAIL**                   dzimque@gmail.com
-**TG**                                @dimque
+**TG**-                                [@dimque](https://t.me/dimque)
 **github**                           [dzimque](https://dzimque.github.io/rsschool-cv/cv)
 
-### Education:
 ---------
-<h2>2015-2020</h2>
-<h1>Belarussian-Russian University   
+### Education:
+
+#### 2015-2020
+#### Belarussian-Russian University   
 Economics; (Mogilev, Belarus)</h1> 
-----------------------------------------
-#### Skills:
-
-* **JS**
-* **HTML**
-* **CSS**
-* **Markdown**  
 
 ----------------------------------------
+ **Skills**
+* __JS__
+* __HTML__
+* __CSS__
+* __Markdown__  
+
+----------------------------------------
+
 Code example
+
 ```function sum(a, b) {
   return a + b;
 }

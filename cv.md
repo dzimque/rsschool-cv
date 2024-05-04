@@ -4,7 +4,7 @@ Wroclaw, Poland
 
 -------------------     ----------------------------
 ## Contact info
-* EMAIL  dzimque@gmail.
+* EMAIL  dzimque@gmail.com
 * TG-[@dimque](https://t.me/dimque)
 * github  [dzimque](https://dzimque.github.io/rsschool-cv/cv)
 

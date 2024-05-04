@@ -21,9 +21,10 @@ Economics; (Mogilev, Belarus)</h1>
 * __CSS__
 * __Markdown__  
 
-----------------------------------------
+
 
 Code example
+----------------------------------------
 
 ```javascript
 function sum(a, b) {
